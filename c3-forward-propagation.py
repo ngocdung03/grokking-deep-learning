@@ -33,4 +33,7 @@ pred = neural_network(input, weights)
 
 print(pred)
 
+# Making a prediction with multiple outputs
+weights = [0.3, 0.2, 0.9]
+def neural_network
 
